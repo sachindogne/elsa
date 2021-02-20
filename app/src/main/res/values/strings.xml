@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Elsa</string>
+    <string name="welcome">Tap on mic to start</string>
+
+    <string name="speech_error_exception">Fatal error</string>
+    <string name="try_again">Try again…</string>
+    <string name="search_web">Do you want me to search the web?</string>
+
+    <string name="speech_error_audio">Audio recording error</string>
+    <string name="speech_error_client">Client side error</string>
+    <string name="speech_error_insufficient_permissions">Insufficient permissions. Cannot proceed further.</string>
+    <string name="speech_error_network">Other network related errors</string>
+    <string name="speech_error_network_timeout">Network operation timed out</string>
+    <string name="speech_error_no_match">No recognition result matched</string>
+    <string name="speech_error_recognizer_busy">Recognition Service busy</string>
+    <string name="speech_error_server">Server sends error status</string>
+    <string name="speech_error_speech_timeout">No speech input</string>
+
+    <string name="vision_button_1">Take picture</string>
+    <string name="vision_button_2">Go back</string>
+    <string name="captured_image">captured image</string>
+
+    <string name="low_storage_error">The storage is running low</string>
+
+    <string name="ocr_button_text_1">Take picture</string>
+    <string name="ocr_button_text_2">Choose from gallery</string>
+</resources>
